@@ -1,0 +1,37 @@
+body {
+    font-family: Franklin Gothic Medium;
+    background-image: url(https://ivano-frankivsk.bestrest.com.ua/sites/default/files/styles/thumb-1000px-zaokruglennya/public/images/info/180355/gallery-180355_13.jpg?itok=IKQamdvm);
+}
+main p {
+    color:white;
+}
+ul {
+    color: rgb(0, 168, 168);
+}
+footer p {
+    color: white
+}
+h1 {
+    text-align: center;
+    border: solid rgb(13, 160, 165);
+    border-radius: 200px;
+    background-color: rgb(13, 160, 165) ;
+}
+a {
+
+
+}
+header{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+header a {
+    padding: 10px;
+    margin: 10px;
+    
+}
+footer {
+    background-color: black;
+}
+
